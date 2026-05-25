@@ -1,0 +1,9 @@
+# Unity generated (safe to ignore, auto-rebuilt)
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+
+# OS
+.DS_Store
+Thumbs.db

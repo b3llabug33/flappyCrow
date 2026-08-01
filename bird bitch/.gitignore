@@ -3,6 +3,17 @@
 [Tt]emp/
 [Ll]ogs/
 [Oo]bj/
+[Uu]serSettings/
+
+# IDE generated (auto-rebuilt when project is opened)
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# Secrets - never commit
+.mcp.json
 
 # OS
 .DS_Store
